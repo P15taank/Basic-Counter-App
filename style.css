@@ -34,9 +34,3 @@ button{
     border-radius: 5px;
     font-weight: bolder;
 }
-
-p{
-    text-align: center;
-    color: red;
-    display: none;
-}
